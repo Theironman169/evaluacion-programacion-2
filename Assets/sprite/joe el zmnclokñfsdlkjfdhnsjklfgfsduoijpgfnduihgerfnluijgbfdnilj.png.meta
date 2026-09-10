@@ -1,0 +1,3718 @@
+fileFormatVersion: 2
+guid: cf18910b8b81f9243b6133e5190871e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8357312599406184528
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_0"
+  - first:
+      213: -4532835997776250946
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_1"
+  - first:
+      213: -6299315071428769989
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_2"
+  - first:
+      213: 1420673932692498482
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_3"
+  - first:
+      213: -174240840398087057
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_4"
+  - first:
+      213: -4229155941950392762
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_5"
+  - first:
+      213: -2967477514833636375
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_6"
+  - first:
+      213: -4510645932845338706
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_7"
+  - first:
+      213: -3986091389960284095
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_8"
+  - first:
+      213: -2343737546144645504
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_9"
+  - first:
+      213: 7334568154253703276
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_10"
+  - first:
+      213: 8506739375946071912
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_11"
+  - first:
+      213: -9012817757474670270
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_12"
+  - first:
+      213: -5278823900216891917
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_13"
+  - first:
+      213: 8327101529384080880
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_14"
+  - first:
+      213: 7802298846505118742
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_15"
+  - first:
+      213: 5018062890599994284
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_16"
+  - first:
+      213: 7976799823511839296
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_17"
+  - first:
+      213: -1321991524325054321
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_18"
+  - first:
+      213: -4685322903138314512
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_19"
+  - first:
+      213: -2643259094594038727
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_20"
+  - first:
+      213: -4475222307678252590
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_21"
+  - first:
+      213: -4922760763896079894
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_22"
+  - first:
+      213: -6111541060291647482
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_23"
+  - first:
+      213: 2436278023136571194
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_24"
+  - first:
+      213: 7236233034011562742
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_25"
+  - first:
+      213: -4886096104637201477
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_26"
+  - first:
+      213: 6373814017073699253
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_27"
+  - first:
+      213: -4355121790509195391
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_28"
+  - first:
+      213: 1658720234104072570
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_29"
+  - first:
+      213: -4014316485063885306
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_30"
+  - first:
+      213: 7330267148960175619
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_31"
+  - first:
+      213: 9144746165948878072
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_32"
+  - first:
+      213: -2686529914963857592
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_33"
+  - first:
+      213: -5487282240338302429
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_34"
+  - first:
+      213: 3659984069950527752
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_35"
+  - first:
+      213: -6024055176384883994
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_36"
+  - first:
+      213: 2890948059276292993
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_37"
+  - first:
+      213: 2332100790761757931
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_38"
+  - first:
+      213: 6519327097197157053
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_39"
+  - first:
+      213: 6536022649694325618
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_40"
+  - first:
+      213: -8776418750758677751
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_41"
+  - first:
+      213: -6569444699463114534
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_42"
+  - first:
+      213: -9178231817379122406
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_43"
+  - first:
+      213: 8541512984985890791
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_44"
+  - first:
+      213: -7312802234002605581
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_45"
+  - first:
+      213: 6238682792836659778
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_46"
+  - first:
+      213: -1262282865386156561
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_47"
+  - first:
+      213: -6646604684735636570
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_48"
+  - first:
+      213: 967433596574582021
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_49"
+  - first:
+      213: 7974347962506376226
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_50"
+  - first:
+      213: -714673780693941100
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_51"
+  - first:
+      213: -7587000194607918029
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_52"
+  - first:
+      213: -303776955479833161
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_53"
+  - first:
+      213: 8466293704980285973
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_54"
+  - first:
+      213: 534391739493208479
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_55"
+  - first:
+      213: 4157970502019088115
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_56"
+  - first:
+      213: 7034496033156907483
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_57"
+  - first:
+      213: 3663259945519475179
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_58"
+  - first:
+      213: -1273020113946804885
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_59"
+  - first:
+      213: -9190595472173589823
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_60"
+  - first:
+      213: 8928510847901011951
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_61"
+  - first:
+      213: -4838768709503523264
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_62"
+  - first:
+      213: 1932085508539561282
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_63"
+  - first:
+      213: 239151435971920898
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_64"
+  - first:
+      213: 1467198642185654035
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_65"
+  - first:
+      213: -1615803188954108173
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_66"
+  - first:
+      213: -1613735026335735816
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_67"
+  - first:
+      213: 5649182869451867137
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_68"
+  - first:
+      213: -1753515484435457777
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_69"
+  - first:
+      213: -7730629615440525018
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_70"
+  - first:
+      213: -6095417140567552885
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_71"
+  - first:
+      213: -8012367465547693164
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_72"
+  - first:
+      213: 5148153288888959566
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_73"
+  - first:
+      213: -2246074523226310549
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_74"
+  - first:
+      213: -6061265220902733947
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_75"
+  - first:
+      213: 1098907452861837087
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_76"
+  - first:
+      213: -1103044799356974023
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_77"
+  - first:
+      213: -6625735333387871110
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_78"
+  - first:
+      213: 7081990208936916002
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_79"
+  - first:
+      213: 3334409404785472904
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_80"
+  - first:
+      213: 6917306016360429941
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_81"
+  - first:
+      213: 3947902123029559333
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_82"
+  - first:
+      213: -5014997989645765473
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_83"
+  - first:
+      213: 629876634483531990
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_84"
+  - first:
+      213: 1037805687225350113
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_85"
+  - first:
+      213: -1318387929659774503
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_86"
+  - first:
+      213: 4840098207309724403
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_87"
+  - first:
+      213: 5896848707919759157
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_88"
+  - first:
+      213: 3494274072158839652
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_89"
+  - first:
+      213: 4704109251070249418
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_90"
+  - first:
+      213: 7079798942805887659
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_91"
+  - first:
+      213: 4261914141614097561
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_92"
+  - first:
+      213: 5463828658335603106
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_93"
+  - first:
+      213: -4782670674252855582
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_94"
+  - first:
+      213: 7092736476750518113
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_95"
+  - first:
+      213: 9203687528146056622
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_96"
+  - first:
+      213: -7106022429071142314
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_97"
+  - first:
+      213: 1674456837699366169
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_98"
+  - first:
+      213: -2882894097921795041
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_99"
+  - first:
+      213: -2500322493269195214
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_100"
+  - first:
+      213: -1649691078024630086
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_101"
+  - first:
+      213: 6011401989459008470
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_102"
+  - first:
+      213: 1169190649016152880
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_103"
+  - first:
+      213: 8985307671514790126
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_104"
+  - first:
+      213: -3798046009021427655
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_105"
+  - first:
+      213: -6243901515719010362
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_106"
+  - first:
+      213: -597650793569974719
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_107"
+  - first:
+      213: -6011594419549333690
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_108"
+  - first:
+      213: 772177182451130790
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_109"
+  - first:
+      213: -1159954330802760304
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_110"
+  - first:
+      213: -2331040431488060503
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_111"
+  - first:
+      213: -4051126165774055610
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_112"
+  - first:
+      213: 4604869843000916405
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_113"
+  - first:
+      213: -7755491286108241450
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_114"
+  - first:
+      213: 2945204558782588767
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_115"
+  - first:
+      213: -1529799864856423831
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_116"
+  - first:
+      213: 4849224251642906435
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_117"
+  - first:
+      213: 8134472637452265395
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_118"
+  - first:
+      213: 5794225268801544897
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_119"
+  - first:
+      213: 1125821499819637662
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_120"
+  - first:
+      213: -1242189184029277381
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_121"
+  - first:
+      213: -5117365871251417206
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_122"
+  - first:
+      213: -2919900561479575534
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_123"
+  - first:
+      213: -1877051170819076653
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_124"
+  - first:
+      213: 3091694783649306582
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_125"
+  - first:
+      213: 8413109010362217442
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_126"
+  - first:
+      213: 5337599734521441142
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_127"
+  - first:
+      213: 6071999565079419156
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_128"
+  - first:
+      213: -3814611650517292339
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_129"
+  - first:
+      213: 1741711954054052684
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_130"
+  - first:
+      213: -4112706880358617900
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_131"
+  - first:
+      213: 4138196282284564521
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_132"
+  - first:
+      213: -2367961021279762301
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_133"
+  - first:
+      213: 7704738944172549935
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_134"
+  - first:
+      213: 4594301159482242071
+    second: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_135"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 77
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_0"
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2269
+        width: 39
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058808cb7832bf370800000000000000
+      internalID: 8357312599406184528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_1"
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2398
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7717f0da12811c0800000000000000
+      internalID: -4532835997776250946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_2"
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2379
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37493751565498a0800000000000000
+      internalID: -6299315071428769989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_3"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2283
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2382bcb2a6f37b310800000000000000
+      internalID: 1420673932692498482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_4"
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2294
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cd4baf0e8f49df0800000000000000
+      internalID: -174240840398087057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_5"
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 2292
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646705ce3150f45c0800000000000000
+      internalID: -4229155941950392762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_6"
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 2284
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3d1613ce661d6d0800000000000000
+      internalID: -2967477514833636375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_7"
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2282
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf61392c67f661c0800000000000000
+      internalID: -4510645932845338706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_8"
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 2301
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1489c23000f8ea8c0800000000000000
+      internalID: -3986091389960284095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_9"
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2310
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e7d439e1f597fd0800000000000000
+      internalID: -2343737546144645504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_10"
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2322
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c683f2740ee99c560800000000000000
+      internalID: 7334568154253703276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_11"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2270
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ff71c44620e0670800000000000000
+      internalID: 8506739375946071912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_12"
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2264
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249b364600a0ce280800000000000000
+      internalID: -9012817757474670270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_13"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2153
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5eab391a9ddb6b0800000000000000
+      internalID: -5278823900216891917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_14"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2157
+        width: 89
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5dc8bd8becf8370800000000000000
+      internalID: 8327101529384080880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_15"
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2157
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ca0696675574c60800000000000000
+      internalID: 7802298846505118742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_16"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2157
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca358c6bc9db3a540800000000000000
+      internalID: 5018062890599994284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_17"
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2157
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04262d43d2943be60800000000000000
+      internalID: 7976799823511839296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_18"
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 2157
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88278c76b757ade0800000000000000
+      internalID: -1321991524325054321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_19"
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2150
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6507cb4a36afeb0800000000000000
+      internalID: -4685322903138314512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_20"
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2157
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934d669abd1415bd0800000000000000
+      internalID: -2643259094594038727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_21"
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 2262
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d11feb9501d4e1c0800000000000000
+      internalID: -4475222307678252590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_22"
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 2150
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae95eb9ca27deabb0800000000000000
+      internalID: -4922760763896079894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_23"
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2033
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6082a1739c17f2ba0800000000000000
+      internalID: -6111541060291647482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_24"
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2028
+        width: 115
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f652f34f56fc120800000000000000
+      internalID: 2436278023136571194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_25"
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2d430fa934c6460800000000000000
+      internalID: 7236233034011562742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_26"
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2033
+        width: 117
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb30ea00b79113cb0800000000000000
+      internalID: -4886096104637201477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_27"
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2032
+        width: 114
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b955102416547850800000000000000
+      internalID: 6373814017073699253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_28"
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2031
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fd2235ecf7f83c0800000000000000
+      internalID: -4355121790509195391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_29"
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 2031
+        width: 117
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79a68fb345f40710800000000000000
+      internalID: 1658720234104072570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_30"
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2033
+        width: 110
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60eb5c3fc684a48c0800000000000000
+      internalID: -4014316485063885306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_31"
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2033
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3069c7272275ab560800000000000000
+      internalID: 7330267148960175619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_32"
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2026
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc8f7edf2aa8ee70800000000000000
+      internalID: 9144746165948878072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_33"
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1880
+        width: 122
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f6e14b64787bad0800000000000000
+      internalID: -2686529914963857592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_34"
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 2028
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a635210e149d3b0800000000000000
+      internalID: -5487282240338302429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_35"
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1891
+        width: 93
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8095df4ce10eac230800000000000000
+      internalID: 3659984069950527752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_36"
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1906
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2d930ebb1466ca0800000000000000
+      internalID: -6024055176384883994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_37"
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1901
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183b44961f5be1820800000000000000
+      internalID: 2890948059276292993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_38"
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1894
+        width: 91
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec13cd20594d5020800000000000000
+      internalID: 2332100790761757931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_39"
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1894
+        width: 90
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbad30b347d497a50800000000000000
+      internalID: 6519327097197157053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_40"
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1911
+        width: 98
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b00f678fd94ba50800000000000000
+      internalID: 6536022649694325618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_41"
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1917
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90393f845a5e33680800000000000000
+      internalID: -8776418750758677751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_42"
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1896
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0adec2ad4a4d4a0800000000000000
+      internalID: -6569444699463114534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_43"
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1891
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13fdea5ace50a080800000000000000
+      internalID: -9178231817379122406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_44"
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1778
+        width: 67
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef68721ecc898670800000000000000
+      internalID: 8541512984985890791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_45"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1782
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f97791fc15b38a90800000000000000
+      internalID: -7312802234002605581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_46"
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1777
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24afe5532f0449650800000000000000
+      internalID: 6238682792836659778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_47"
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1782
+        width: 110
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed889afb687b7ee0800000000000000
+      internalID: -1262282865386156561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_48"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1779
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab92e3214482c3a0800000000000000
+      internalID: -6646604684735636570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_49"
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1776
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5054b9bfab30d6d00800000000000000
+      internalID: 967433596574582021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_50"
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1781
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2247d84d8339aae60800000000000000
+      internalID: 7974347962506376226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_51"
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1784
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494c373abf7f416f0800000000000000
+      internalID: -714673780693941100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_52"
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1784
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3345399458f85b690800000000000000
+      internalID: -7587000194607918029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_53"
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1651
+        width: 71
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5ccade774c8cbf0800000000000000
+      internalID: -303776955479833161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_54"
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1654
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ac971b4415e7570800000000000000
+      internalID: 8466293704980285973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_55"
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1657
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91556ba47a8a6700800000000000000
+      internalID: 534391739493208479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_56"
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1654
+        width: 91
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe7667442414b930800000000000000
+      internalID: 4157970502019088115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_57"
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1655
+        width: 107
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1463e2fdc8f9160800000000000000
+      internalID: 7034496033156907483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_58"
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1713
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9ea9cf28386d230800000000000000
+      internalID: 3663259945519475179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_59"
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1646
+        width: 117
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6df54c73f2555ee0800000000000000
+      internalID: -1273020113946804885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_60"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1527
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca97c6ac12747080800000000000000
+      internalID: -9190595472173589823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_61"
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1524
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef8c569f4178eb70800000000000000
+      internalID: 8928510847901011951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_62"
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1527
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04664cfde7d39dcb0800000000000000
+      internalID: -4838768709503523264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_63"
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1530
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2453e2c888520da10800000000000000
+      internalID: 1932085508539561282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_64"
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1530
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20481a4c6f2a15300800000000000000
+      internalID: 239151435971920898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_65"
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1524
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f496a34698c5410800000000000000
+      internalID: 1467198642185654035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_66"
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1527
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe627f7f838399e0800000000000000
+      internalID: -1615803188954108173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_67"
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1381
+        width: 77
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff17a12b8cda99e0800000000000000
+      internalID: -1613735026335735816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_68"
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1520
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10486ec93ede56e40800000000000000
+      internalID: 5649182869451867137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_69"
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1381
+        width: 60
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09d31a15f24aa7e0800000000000000
+      internalID: -1753515484435457777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_70"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1390
+        width: 67
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6298d89c25947b490800000000000000
+      internalID: -7730629615440525018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_71"
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1391
+        width: 68
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cc4a2d76ab86ba0800000000000000
+      internalID: -6095417140567552885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_72"
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1380
+        width: 68
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493022ecd3a5ec090800000000000000
+      internalID: -8012367465547693164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_73"
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1452
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e424c71e32ae17740800000000000000
+      internalID: 5148153288888959566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_74"
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1398
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b687a001f1754d0e0800000000000000
+      internalID: -2246074523226310549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_75"
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1420
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587b9a2456f02eba0800000000000000
+      internalID: -6061265220902733947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_76"
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1381
+        width: 77
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1febd0918a104f00800000000000000
+      internalID: 1098907452861837087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_77"
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1269
+        width: 68
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c4cf2699231b0f0800000000000000
+      internalID: -1103044799356974023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_78"
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1248
+        width: 77
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c59a5a1d8ac04a0800000000000000
+      internalID: -6625735333387871110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_79"
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1243
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224ba72b298484260800000000000000
+      internalID: 7081990208936916002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_80"
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1236
+        width: 79
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885b5fbefa3364e20800000000000000
+      internalID: 3334409404785472904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_81"
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1242
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579f5d32c253fff50800000000000000
+      internalID: 6917306016360429941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_82"
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1266
+        width: 68
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528ff236014c9c630800000000000000
+      internalID: 3947902123029559333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_83"
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1270
+        width: 75
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94bdd526e5276ab0800000000000000
+      internalID: -5014997989645765473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_84"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1116
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0a5ba3675cdb800800000000000000
+      internalID: 629876634483531990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_85"
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1096
+        width: 101
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e772f426c6076e00800000000000000
+      internalID: 1037805687225350113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_86"
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1088
+        width: 101
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d96770c92524bde0800000000000000
+      internalID: -1318387929659774503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_87"
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1083
+        width: 102
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa73b4fcab7b2340800000000000000
+      internalID: 4840098207309724403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_88"
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1216
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53747c138a0d5d150800000000000000
+      internalID: 5896848707919759157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_89"
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1096
+        width: 101
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463a2e251c72e7030800000000000000
+      internalID: 3494274072158839652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_90"
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1116
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9cbaeb07a584140800000000000000
+      internalID: 4704109251070249418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_91"
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1121
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa812bc0af704260800000000000000
+      internalID: 7079798942805887659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_92"
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1144
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9944f1ac45c552b30800000000000000
+      internalID: 4261914141614097561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_93"
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1119
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a951b5573b63db40800000000000000
+      internalID: 5463828658335603106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_94"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 955
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e60b778c5a80adb0800000000000000
+      internalID: -4782670674252855582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_95"
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 956
+        width: 82
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1679b262f367e6260800000000000000
+      internalID: 7092736476750518113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_96"
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 996
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5b6da2b011abf70800000000000000
+      internalID: 9203687528146056622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_97"
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 958
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65291450046526d90800000000000000
+      internalID: -7106022429071142314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_98"
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 958
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d6bca4f9ddc3710800000000000000
+      internalID: 1674456837699366169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_99"
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 831
+        width: 103
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c1d489717edf7d0800000000000000
+      internalID: -2882894097921795041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_100"
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 829
+        width: 105
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23645cc80f11d4dd0800000000000000
+      internalID: -2500322493269195214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_101"
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 834
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0f53974be1b19e0800000000000000
+      internalID: -1649691078024630086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_102"
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 834
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbd7c7724acc6350800000000000000
+      internalID: 6011401989459008470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_103"
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 834
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033f05d53bcc93010800000000000000
+      internalID: 1169190649016152880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_104"
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 834
+        width: 79
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee83b3698b932bc70800000000000000
+      internalID: 8985307671514790126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_105"
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 834
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93010b71741aa4bc0800000000000000
+      internalID: -3798046009021427655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_106"
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 704
+        width: 106
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c79b0f27a43959a0800000000000000
+      internalID: -6243901515719010362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_107"
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 572
+        width: 98
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146088d05c7b4b7f0800000000000000
+      internalID: -597650793569974719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_108"
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 704
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6479a09e9b6829ca0800000000000000
+      internalID: -6011594419549333690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_109"
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 707
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a169a76e0357ba00800000000000000
+      internalID: 772177182451130790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_110"
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 701
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09553dc8ea307efe0800000000000000
+      internalID: -1159954330802760304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_111"
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 704
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3b414f31b76afd0800000000000000
+      internalID: -2331040431488060503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_112"
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 704
+        width: 83
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6474fbc473287c7c0800000000000000
+      internalID: -4051126165774055610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_113"
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 569
+        width: 79
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b97afc79b8c7ef30800000000000000
+      internalID: 4604869843000916405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_114"
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 704
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d181e004c5fe5490800000000000000
+      internalID: -7755491286108241450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_115"
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 704
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57e81d11f77fd820800000000000000
+      internalID: 2945204558782588767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_116"
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 582
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962dacdc02f05cae0800000000000000
+      internalID: -1529799864856423831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_117"
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 582
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347826bb3c7eb4340800000000000000
+      internalID: 4849224251642906435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_118"
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 585
+        width: 93
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b72a76f3c373e070800000000000000
+      internalID: 8134472637452265395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_119"
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 587
+        width: 110
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2228fce29396050800000000000000
+      internalID: 5794225268801544897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_120"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 454
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b3f3170b8bf9f00800000000000000
+      internalID: 1125821499819637662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_121"
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 453
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b334a1eb48bd2cee0800000000000000
+      internalID: -1242189184029277381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_122"
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 450
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a871a526ad67bf8b0800000000000000
+      internalID: -5117365871251417206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_123"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 439
+        width: 108
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218db8dd8ed6a77d0800000000000000
+      internalID: -2919900561479575534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_124"
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 426
+        width: 108
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd091ab7ef53f5e0800000000000000
+      internalID: -1877051170819076653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_125"
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 433
+        width: 90
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d758557608e7ea20800000000000000
+      internalID: 3091694783649306582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_126"
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 427
+        width: 103
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e33743021e51c470800000000000000
+      internalID: 8413109010362217442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_127"
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 422
+        width: 113
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bae51cda6f21a40800000000000000
+      internalID: 5337599734521441142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_128"
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 206
+        width: 89
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41992e00f63144450800000000000000
+      internalID: 6071999565079419156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_129"
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 214
+        width: 96
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaa9de1ae6cf0bc0800000000000000
+      internalID: -3814611650517292339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_130"
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 215
+        width: 92
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b71725bcdcb2810800000000000000
+      internalID: 1741711954054052684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_131"
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 215
+        width: 95
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc6be2e1eabce6c0800000000000000
+      internalID: -4112706880358617900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_132"
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 214
+        width: 89
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920e968f793dd6930800000000000000
+      internalID: 4138196282284564521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_133"
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 208
+        width: 96
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38806a44fff432fd0800000000000000
+      internalID: -2367961021279762301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_134"
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 214
+        width: 97
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27e58e8f3bbcea60800000000000000
+      internalID: 7704738944172549935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_135"
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 215
+        width: 94
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714ba1a109c32cf30800000000000000
+      internalID: 4594301159482242071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_0": 8357312599406184528
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_1": -4532835997776250946
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_10": 7334568154253703276
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_100": -2500322493269195214
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_101": -1649691078024630086
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_102": 6011401989459008470
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_103": 1169190649016152880
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_104": 8985307671514790126
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_105": -3798046009021427655
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_106": -6243901515719010362
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_107": -597650793569974719
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_108": -6011594419549333690
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_109": 772177182451130790
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_11": 8506739375946071912
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_110": -1159954330802760304
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_111": -2331040431488060503
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_112": -4051126165774055610
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_113": 4604869843000916405
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_114": -7755491286108241450
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_115": 2945204558782588767
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_116": -1529799864856423831
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_117": 4849224251642906435
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_118": 8134472637452265395
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_119": 5794225268801544897
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_12": -9012817757474670270
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_120": 1125821499819637662
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_121": -1242189184029277381
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_122": -5117365871251417206
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_123": -2919900561479575534
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_124": -1877051170819076653
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_125": 3091694783649306582
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_126": 8413109010362217442
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_127": 5337599734521441142
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_128": 6071999565079419156
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_129": -3814611650517292339
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_13": -5278823900216891917
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_130": 1741711954054052684
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_131": -4112706880358617900
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_132": 4138196282284564521
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_133": -2367961021279762301
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_134": 7704738944172549935
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_135": 4594301159482242071
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_14": 8327101529384080880
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_15": 7802298846505118742
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_16": 5018062890599994284
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_17": 7976799823511839296
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_18": -1321991524325054321
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_19": -4685322903138314512
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_2": -6299315071428769989
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_20": -2643259094594038727
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_21": -4475222307678252590
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_22": -4922760763896079894
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_23": -6111541060291647482
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_24": 2436278023136571194
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_25": 7236233034011562742
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_26": -4886096104637201477
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_27": 6373814017073699253
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_28": -4355121790509195391
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_29": 1658720234104072570
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_3": 1420673932692498482
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_30": -4014316485063885306
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_31": 7330267148960175619
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_32": 9144746165948878072
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_33": -2686529914963857592
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_34": -5487282240338302429
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_35": 3659984069950527752
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_36": -6024055176384883994
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_37": 2890948059276292993
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_38": 2332100790761757931
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_39": 6519327097197157053
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_4": -174240840398087057
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_40": 6536022649694325618
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_41": -8776418750758677751
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_42": -6569444699463114534
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_43": -9178231817379122406
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_44": 8541512984985890791
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_45": -7312802234002605581
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_46": 6238682792836659778
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_47": -1262282865386156561
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_48": -6646604684735636570
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_49": 967433596574582021
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_5": -4229155941950392762
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_50": 7974347962506376226
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_51": -714673780693941100
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_52": -7587000194607918029
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_53": -303776955479833161
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_54": 8466293704980285973
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_55": 534391739493208479
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_56": 4157970502019088115
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_57": 7034496033156907483
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_58": 3663259945519475179
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_59": -1273020113946804885
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_6": -2967477514833636375
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_60": -9190595472173589823
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_61": 8928510847901011951
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_62": -4838768709503523264
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_63": 1932085508539561282
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_64": 239151435971920898
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_65": 1467198642185654035
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_66": -1615803188954108173
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_67": -1613735026335735816
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_68": 5649182869451867137
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_69": -1753515484435457777
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_7": -4510645932845338706
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_70": -7730629615440525018
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_71": -6095417140567552885
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_72": -8012367465547693164
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_73": 5148153288888959566
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_74": -2246074523226310549
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_75": -6061265220902733947
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_76": 1098907452861837087
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_77": -1103044799356974023
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_78": -6625735333387871110
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_79": 7081990208936916002
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_8": -3986091389960284095
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_80": 3334409404785472904
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_81": 6917306016360429941
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_82": 3947902123029559333
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_83": -5014997989645765473
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_84": 629876634483531990
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_85": 1037805687225350113
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_86": -1318387929659774503
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_87": 4840098207309724403
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_88": 5896848707919759157
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_89": 3494274072158839652
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_9": -2343737546144645504
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_90": 4704109251070249418
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_91": 7079798942805887659
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_92": 4261914141614097561
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_93": 5463828658335603106
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_94": -4782670674252855582
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_95": 7092736476750518113
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_96": 9203687528146056622
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_97": -7106022429071142314
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_98": 1674456837699366169
+      "joe el zmnclok\xF1fsdlkjfdhnsjklfgfsduoijpgfnduihgerfnluijgbfdnilj_99": -2882894097921795041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
